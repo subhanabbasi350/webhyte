@@ -166,7 +166,7 @@
                 </div>
                 <div class="contact-info">
                     <h6>Address</h6>
-                    <a href="javascript:;">4900 California Ave, Bakersfield, CA, 93309</a>
+                    <a href="javascript:;">2706 CAMELLIA AVE FULSHEAR, TX 77423</a>
                 </div>
             </div>
         </div>
@@ -178,6 +178,16 @@
 	
 	<script src="assets/js/plugin.js"></script>
 <script src="assets/js/custom.js"></script>
+<script type="text/javascript">
+document.getElementById('openChatButton').onclick = function() {
+    // Check if Tawk.to widget is initialized
+    if (typeof Tawk_API !== 'undefined') {
+        // Open the chat widget
+        Tawk_API.toggle();
+    }
+};
+</script>
+
 <script>
          $('.subbtn').on("click", function(event) {
             event.preventDefault();

@@ -355,9 +355,9 @@
                 </div>
                 <div class="contact-details">
                     <ul class="inline-block">
-                        <li><a href="#" class="btn-style-2 color-white #"><span class="moving-circle"></span>Get In Touch</a></li>
+                        <li><a href="#footer-form" class="btn-style-2 color-white #"><span class="moving-circle"></span>Get In Touch</a></li>
                         <li><a href="tel:(972)944 5323"><span>Call Us At</span> (972)944 5323</a></li>
-                        <li><a href="#" class="chat"><span>Click here to <i class="fa fa-wechat" aria-hidden="true"></i></span> Live Chat</a></li>
+                        <li><a href="javascript:;" class="chat" id="openChatButton"><span>Click here to <i class="fa fa-wechat" aria-hidden="true"></i></span> Live Chat</a></li>
                     </ul>
                 </div>
             </div>
@@ -1940,7 +1940,7 @@
                 <div class="get-in-touch">
                     <h6><span>Get In Touch</span> With Our Support Agent or</h6>
                     <ul class="inline-block">
-                        <li><a href="#" class="btn-style-2 #"><span class="moving-circle"></span>ORDER NOW</a></li>
+                        <li><a href="#footer-form" class="btn-style-2 #"><span class="moving-circle"></span>ORDER NOW</a></li>
                         <li><a href="javascript:$zopim.livechat.window.show();" class="chat"><span>Click here to <i class="fa fa-wechat" aria-hidden="true"></i></span>Live Chat</a></li>
                     </ul>
                 </div>
