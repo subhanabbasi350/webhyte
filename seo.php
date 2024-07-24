@@ -175,11 +175,7 @@ higher organic searches and let the world know what you have to offer!
                                 <a data-fancybox="portfolioecommerce" href="assets/images/elements/seo-portfolio1.png">
                                     <img src="assets/images/elements/seo-portfolio1.png">
                                 </a>
-                                <!-- <div class="hover-effect">
-                                    <a data-fancybox="portfolioecommerce" href="assets/images/elements/seo-portfolio1.png">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div> -->
+
                             </div>
                         </li>
                         <li>
@@ -187,11 +183,7 @@ higher organic searches and let the world know what you have to offer!
                                 <a data-fancybox="portfolioecommerce" href="assets/images/elements/seo-portfolio2.png">
                                     <img src="assets/images/elements/seo-portfolio2.png">
                                 </a>
-                                <!-- <div class="hover-effect">
-                                    <a data-fancybox="portfolioecommerce" href="assets/images/elements/seo-portfolio2.png">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div> -->
+
                             </div>
                         </li>
                         

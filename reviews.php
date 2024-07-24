@@ -134,10 +134,7 @@
                 <div class="box-top">
                     <!--profile----->
                     <div class="profile">
-                        <!--img---->
-                        <!-- <div class="profile-img">
-                        <img src="assets/images/elements/testi-2.png" />
-                        </div> -->
+        
                         <!--name-and-username-->
                         <div class="name-user">
                             <strong>Noah Wood</strong>
@@ -165,10 +162,7 @@
                 <div class="box-top">
                     <!--profile----->
                     <div class="profile">
-                        <!--img---->
-                        <!-- <div class="profile-img">
-                        <img src="assets/images/elements/testi-3.png" />
-                        </div> -->
+   
                         <!--name-and-username-->
                         <div class="name-user">
                             <strong>Oliver Queen</strong>

@@ -131,28 +131,7 @@
 
 
 
-                    <!-- <ul class="inline-block">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about-us.php">About</a></li>
-                        <li class="dropdown-nav"><a href="javascript:;">Services</a>
-                            <ul class="dropdown">
-								<li><a href="web.php">Custom Websites</a></li>
-                                <li><a href="ecommerce.php">Ecommerce Solutions</a></li>
-                                <li><a href="mobile-app.php">Web App Solutions</a></li>
-                                <li><a href="logo.php">Logo Design</a></li>
-								<li><a href="animation.php">Video Animation</a></li>
-                                <li><a href="seo.php">SEO Services</a></li>
-                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
-                                <li><a href="copywriting.php">Creative Copywriting</a></li>
-                                <li><a href="illustration.php">Illustration</a></li>
-                                <li><a href="marketing-collateral.php">Marketing Collateral</a></li>
-							</ul>
-                        </li>
-                        <li><a href="pricing.php">Packages</a></li>
-                        <li><a href="combo-package.php">Combo Packages</a></li>
-                        <li><a href="portfolio.php">Showcase</a></li>
-                        <li><a href="reviews.php">Reviews</a></li>
-                    </ul> -->
+                   
                 </div>
 
 

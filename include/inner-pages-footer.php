@@ -43,10 +43,8 @@
             </div>
             <div class="col-lg-5 combo-box">
                 <div class="box">
-                <!-- <img src="assets/images/elements/combo-image.png" class="img-fluid combo-image"> -->
     </div>
     <div class="element element-3 combo-element"><img src="assets/images/elements/element1.png"></div>
-    <!-- <div class="element element-12"><img src="assets/images/elements/element1.png" /></div> -->
     <div class="element element-6 element1 combo-image-element"><img src="assets/images/elements/element1.png"></div>
 </section>
 

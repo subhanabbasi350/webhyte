@@ -32,13 +32,8 @@
                  <p>Helping brands to digitally transform with a spice of innovation and technical expertise.</p>
                     <div class="banner-btn-wrap">
                     <a href="#" id="openPopupButton" class="btn-style-2"><span class="moving-circle"></span>Get Started</a>
-                    <!-- <a href='' target='_blank' class='bark-widget' data-type='pro' data-id='wmRlJ' data-image='medium-navy' data-version='3.0'>Webhyte  </a> -->
                         <script type='text/javascript' src='../' defer></script>
-                        <!-- TrustBox widget - Micro Review Count -->
-                        <!-- <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="60400501e17b6a00013e8118" data-style-height="24px" data-style-width="100%" data-theme="">
-                            <a href="#" target="_blank" rel="noopener">Trustpilot</a>
-                        </div> -->
-                        <!-- End TrustBox widget -->
+
                     </div>
                 </div>
             </div>
@@ -208,12 +203,7 @@
                                 <h4>ORM</h4>
                                 </div>
                         </li>
-                        <!-- <li>
-                                <div class="service-type-box">
-                                    <img src="assets/images/service-type/website/b2b.png" alt="" />
-                                    <h4>B2C Portal</h4>
-                                </div>
-                        </li> -->
+
                         <li>
                                 <div class="service-type-box">
                                 <img src="assets/images/elements/PPC.gif" alt="" class="gif-img"/>
@@ -249,12 +239,7 @@
                                 <h4>Flutter</h4>
                                 </div>
                         </li>
-                        <!-- <li>
-                                <div class="service-type-box">
-                                    <img src="assets/images/service-type/website/b2b.png" alt="" />
-                                    <h4>B2C Portal</h4>
-                                </div>
-                        </li> -->
+
                         <li>
                                 <div class="service-type-box">
                                 <img src="assets/images/elements/hybrid.gif" alt="" class="gif-img"/>
@@ -290,12 +275,7 @@
                                     <h4>3D Videos</h4>
                                 </div>
                         </li>
-                        <!-- <li>
-                                <div class="service-type-box">
-                                    <img src="assets/images/service-type/website/b2b.png" alt="" />
-                                    <h4>B2C Portal</h4>
-                                </div>
-                        </li> -->
+
                         <li>
                                 <div class="service-type-box">
                                     <img src="assets/images/elements/explan.gif" alt="" class="gif-img"/>
@@ -331,12 +311,7 @@
                                     <h4>Brochure</h4>
                                 </div>
                         </li>
-                        <!-- <li>
-                                <div class="service-type-box">
-                                    <img src="assets/images/service-type/website/b2b.png" alt="" />
-                                    <h4>B2C Portal</h4>
-                                </div>
-                        </li> -->
+
                         <li>
                                 <div class="service-type-box">
                                     <img src="assets/images/elements/card.gif" alt="" class="gif-img"/>
@@ -369,8 +344,7 @@
             <div class="col-lg-6 pos-unset">
                 <div class="cta-slider-1">
                     <img class="item-slide business-banner-image" src="assets/images/elements/banner2.png"/>
-                    <!-- <img class="item-slide" src="assets/images/icon.png" />
-                    <img class="item-slide" src="assets/images/icon.png" /> -->
+
                 </div>
             </div>
             <div class="col-lg-6">
@@ -565,54 +539,7 @@
                                 </div>
                             </div>
                         </li>
-                        <!-- <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/13.jpg">
-                                    <img src="assets/images/portfolio/website/half/13.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/13.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/14.jpg">
-                                    <img src="assets/images/portfolio/website/half/14.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/14.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/15.jpg">
-                                    <img src="assets/images/portfolio/website/half/15.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/15.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/16.jpg">
-                                    <img src="assets/images/portfolio/website/half/16.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/16.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li> -->
+                       
                     </ul>
                 </div>
             </div>
@@ -1993,13 +1920,10 @@
     <div class="element element-10">
         <img src="assets/images/mix/cta-3-element-1.png" />
     </div>
-    <!-- <div class="element element-11">
-        <img src="assets/images/mix/cta-3-element-2.png" />
-    </div> -->
+
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-lg-2 cta-before-image">
-                <!-- <img src="assets/images/elements/cta-before.png" alt=""> -->
             </div>
             <div class="col-lg-2">
                 <div class="title">
@@ -2022,7 +1946,6 @@
                 </div>
             </div>
             <div class="col-lg-2 cta-after-image">
-                <!-- <img src="assets/images/elements/cta-before.png" alt=""> -->
             </div>
         </div>
     </div>
@@ -2074,10 +1997,8 @@
             </div>
             <div class="col-lg-5 combo-box">
                 <div class="box">
-                <!-- <img src="assets/images/elements/combo-image.png" class="img-fluid combo-image"> -->
     </div>
     <div class="element element-3 combo-element"><img src="assets/images/elements/element1.png"></div>
-    <!-- <div class="element element-12"><img src="assets/images/elements/element1.png" /></div> -->
     <div class="element element-6 element1 combo-image-element"><img src="assets/images/elements/element1.png"></div>
 </section>
 
@@ -2087,38 +2008,12 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="headingstyle1 icons-heading">
-                    <h6><!-- Logos,  -->Web Design, Development and Marketing Solutions for</h6>
+                    <h6>Web Design, Development and Marketing Solutions for</h6>
                     <h3>Fortune 500 Companies From 40+ Industries</h3>
-                    <!-- <p>We take pride in delivering crystal clear and spotless work to our clients. Ensuring every step is according to your needs, Webhyte   delivers what <br />it promises. Keeping you in mind, we offer all types of website and logo designs, video animations, and mobile applications.</p> -->
                 </div>
             </div>
         </div>
-        <!-- <div class="row justify-content-center">
-            <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                <div class="industrie-number">
-                    <h3>400+</h3>
-                    <p>Projects Ordered</p>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                <div class="industrie-number">
-                    <h3>1000+</h3>
-                    <p>Happy Clients</p>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                <div class="industrie-number">
-                    <h3>900+</h3>
-                    <p>Projects Completed</p>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                <div class="industrie-number">
-                    <h3>300+</h3>
-                    <p>Comments</p>
-                </div>
-            </div>
-        </div> -->
+        
         <div class="point-wrap">
             <div class="row responsive-slider">
                 <div class="col-lg-2 col-md-4 col-sm-4">
@@ -2234,8 +2129,7 @@
     <img class="element element-25 ready1-image" src="assets/images/elements/ready1.png" />
     <img class="element element-29 ready3-image" src="assets/images/elements/ready1.png" />
 
-    <!-- <img class="element element-26" src="assets/images/elements/element1.png" /> -->
-    <!-- <img class="element element-27" src="assets/images/elements/element1.png" /> -->
+
     <img class="element element-28 ready2-image" src="assets/images/elements/ready2.png" />
     <img class="element element-29 ready4-image" src="assets/images/elements/ready2.png" />
 
@@ -2322,16 +2216,7 @@
             </div>
         </div>
     </div>
-<!--</section>-->
-<!--    <section class="brand spacing__x">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-12">-->
-<!--                <img class="img-fluid" src="assets/images/mix/brands.jpg" />-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
+
 	<section class="brand spacing__x">
     <div class="container">
         <div class="row">
@@ -2423,7 +2308,6 @@
 
 
 
-<!-- <a class="contact-whatsapp" href="tel:+1(972)944 5323"><img src="assets/images/elements/whatsapp.png" /></a> -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script>
     

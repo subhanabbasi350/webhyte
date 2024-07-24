@@ -271,54 +271,7 @@
                                 </div>
                             </div>
                         </li>
-                        <!-- <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/13.jpg">
-                                    <img src="assets/images/portfolio/website/half/13.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/13.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/14.jpg">
-                                    <img src="assets/images/portfolio/website/half/14.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/14.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/15.jpg">
-                                    <img src="assets/images/portfolio/website/half/15.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/15.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="portfolio-item">
-                                <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/16.jpg">
-                                    <img src="assets/images/portfolio/website/half/16.jpg">
-                                </a>
-                                <div class="hover-effect">
-                                    <a data-fancybox="portfoliowebsite" href="assets/images/portfolio/website/full/16.jpg">
-                                        <i class="fa fa-plus" aria-hidden="true"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </li> -->
+                       
                     </ul>
                 </div>
             </div>

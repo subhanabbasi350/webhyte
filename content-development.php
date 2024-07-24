@@ -93,41 +93,7 @@ effective marketing copies.
 <!-- visonary end -->
 
 <!-- content sec start -->
-<!-- <section class="content-sec">
-    <div class="container content-development-section text-center">
-    <h1><span>The Web Hyte Process</span></h1>
-    <p>Don’t know what to expect? Fret not because our team follows a tried and tested process while leaving plenty of room for tailoring the experience to your needs.</p>
 
-        <div class="row ">      
-            <div class="col-lg-6 col-md-6 col-sm-12 content-section-text">
-                <h1 class="content-section-heading">Brand <br>Analysis</h1>
-                <p>We look at your website, niches, and audience to determine the 
-                requirements and timeline.</p>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 content-section">
-                <img src="assets/images/elements/content-section1.png" class="img-fluid content-image" />
-            </div>
-
-            <div class="col-lg-5 col-md-6 col-sm-12 content-section">
-                <img src="assets/images/elements/content-section2.png" class="img-fluid content-image" />
-            </div>
-            <div class="col-lg-7 col-md-6 col-sm-12 content-section-text">
-            <h1 class="content-section-heading">Content<br>
-            Strategy</h1>
-            <p>We create a strategy deck for how we will move forward with your content creation.</p>
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 content-section-text">
-            <h1 class="content-section-heading">Content
-            Development</h1>
-            <p>Once approved, we will work on creating your website’s content, integrating keywords and other elements.</p>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 content-section">
-                <img src="assets/images/elements/content-section1.png" class="img-fluid content-image" />
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <section class="content-sec">
     <div class="container content-development-section text-center">

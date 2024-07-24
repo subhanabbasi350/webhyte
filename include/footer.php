@@ -77,15 +77,7 @@
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4">
-                    <div class="social-icons">
-                        <ul>
-                            <li><a href="javascript:;"><span><i class="fa fa-facebook-f" aria-hidden="true"></i></span></a></li>
-                            <li><a href="javascript:;"><span><i class="fa fa-twitter" aria-hidden="true"></i></span></a></li>
-                            <li><a href="javascript:;"><span><i class="fa fa-linkedin" aria-hidden="true"></i></span></a></li>
-                        </ul>
-                    </div>
-                </div> -->
+
             </div>
         </div>
     </div>
@@ -218,9 +210,7 @@
 
     </script>
 
-<!-- Start of websitedesignavenue Zendesk Widget script -->
-<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=0b1dd958-216d-4adb-af93-5aac850c0307"> </script> -->
-<!-- End of websitedesignavenue Zendesk Widget script -->
+
 
 
 
